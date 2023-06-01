@@ -21,7 +21,7 @@ public class S1Task_3 {
 // [1, 2, 3, 4, 5],
 // [1, 2, 3, 4, 5],
 // [1, 2, 3, 4, 5] ]
-    public static int f1 (int[][] arr) {
+    public static int f1(int[][] arr) {
         if (arr.length != arr[0].length){
             throw new RuntimeException("Двумерный массив не является квадратным");
         }
