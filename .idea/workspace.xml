@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b4a9be3-0d8f-4780-a7fc-925777a72eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Seminars/S_1/HW_S1/HW_S1_Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lections/L_2/L2_Example_1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lections/L_2/L2_Example_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lections/L_2/L2_Example_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/S_1/HW_S1/HW_S1_Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/S_1/HW_S1/HW_S1_Task_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +41,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/JAVA/Program/Seminars",
+    "last_opened_file_path": "C:/JAVA/Program/ErrorsAndException",
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HW_S1_Task_2">
+  <component name="RunManager" selected="Application.L2_Example_3">
     <configuration name="HW_S1_Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminars.S_1.HW_S1.HW_S1_Task_1" />
       <module name="MistakesAndException" />
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lections.L_1.Example_1_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lections.L_1.Example_1_4" />
+    <configuration name="L2_Example_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lections.L_2.L2_Example_1_1" />
       <module name="MistakesAndException" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lections.L_1.*" />
+          <option name="PATTERN" value="Lections.L_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S1Task_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminars.S_1.S1Task_1" />
+    <configuration name="L2_Example_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lections.L_2.L2_Example_2" />
       <module name="MistakesAndException" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminars.S_1.*" />
+          <option name="PATTERN" value="Lections.L_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S1Task_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminars.S_1.S1Task_3" />
+    <configuration name="L2_Example_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lections.L_2.L2_Example_3" />
       <module name="MistakesAndException" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminars.S_1.*" />
+          <option name="PATTERN" value="Lections.L_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.L2_Example_3" />
+        <item itemvalue="Application.L2_Example_2" />
+        <item itemvalue="Application.L2_Example_1_1" />
         <item itemvalue="Application.HW_S1_Task_2" />
         <item itemvalue="Application.HW_S1_Task_1" />
-        <item itemvalue="Application.S1Task_3" />
-        <item itemvalue="Application.S1Task_1" />
-        <item itemvalue="Application.Lections.L_1.Example_1_4" />
       </list>
     </recent_temporary>
   </component>
@@ -150,14 +151,22 @@
       <option name="project" value="LOCAL" />
       <updated>1685646921586</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="S_1_HW_1">
+      <created>1685651128128</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685651128128</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="L_1" />
     <MESSAGE value="S_1" />
     <MESSAGE value="S_1_HW" />
-    <option name="LAST_COMMIT_MESSAGE" value="S_1_HW" />
+    <MESSAGE value="S_1_HW_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="S_1_HW_1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
