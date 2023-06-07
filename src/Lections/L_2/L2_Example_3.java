@@ -14,7 +14,7 @@ public class L2_Example_3 {
 //             test.read();
 
         } catch (RuntimeException | IOException e) {
-            System.out.println("Словили исключение - catch exception: " + e.getClass().getSimpleName());
+            System.out.println("Словили исключение - catch exception: " + e.getMessage().getClass().getSimpleName());
         } finally {
             System.out.println("Файл закрывается - finally start");
             if (test != null){
