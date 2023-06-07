@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b4a9be3-0d8f-4780-a7fc-925777a72eb5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Seminars/S_2/HW_S2/HW_S2_2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/S_2/HW_S2/HW_S2_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminars/S_2/HW_S2/HW_S2_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/S_1/S1Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/S_1/S1Task_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/S_2/HW_S2/HW_S2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/S_2/HW_S2/HW_S2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminars/S_2/S2_Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminars/S_2/S2_Task_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
       <recent name="C:\JAVA\Program\ErrorsAndException\src\Seminars\S_2\HW_S2\HW_S2_3" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.S2_Task_1">
+  <component name="RunManager" selected="Application.HW_S2_4">
     <configuration name="HW_S2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminars.S_2.HW_S2.HW_S2_1" />
       <module name="MistakesAndException" />
@@ -67,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="L2_Example_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lections.L_2.L2_Example_2" />
+    <configuration name="HW_S2_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminars.S_2.HW_S2.HW_S2_4" />
       <module name="MistakesAndException" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lections.L_2.*" />
+          <option name="PATTERN" value="Seminars.S_2.HW_S2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW_S2_4" />
         <item itemvalue="Application.S2_Task_1" />
         <item itemvalue="Application.S1Task_1" />
         <item itemvalue="Application.HW_S2_1" />
         <item itemvalue="Application.L2_Example_3" />
-        <item itemvalue="Application.L2_Example_2" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686168703268</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HW_S2_2">
+      <created>1686174684240</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686174684240</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,7 +193,8 @@
     <MESSAGE value="S_1_HW_1" />
     <MESSAGE value="L_2" />
     <MESSAGE value="HW_S2_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW_S2_1" />
+    <MESSAGE value="HW_S2_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_S2_2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
