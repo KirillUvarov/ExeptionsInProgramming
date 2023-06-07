@@ -18,10 +18,11 @@ public class HW_S2_1 {
             try {
                 System.out.println("Введите вещественное число (не текст!): ");
                 tryFloat = flt.nextLine();
-                return Float.parseFloat(tryFloat);
+                //return Float.parseFloat(tryFloat);
+                System.out.println(Float.parseFloat(tryFloat));
             } catch (NumberFormatException e) {
                 System.out.println("Введено невещественное число или иные символы.\nИсключение: "+ e.getMessage() + " | "+ e.getClass());
-                //System.out.println("Словили исключение - catch exception: " + e.getMessage().getClass().getSimpleName());
+
             } finally {
                 System.out.println("Выполнено \n");
                 scanner();
