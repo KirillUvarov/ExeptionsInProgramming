@@ -6,7 +6,7 @@ public class InputData {
     public String[] enterData() {
         Scanner iScanner = new Scanner(System.in);
         while (true){
-            System.out.println("Введите строку через ПРОБЕЛ (ФИО, д.р, тел., пол) Формата: Фамилия Имя Отчество  dd.mm.yyyy 000111222111 f: ");
+            System.out.println("Введите латиницей через ПРОБЕЛ (ФИО, д.р, тел., пол) формата: Фамилия Имя Отчество  dd.mm.yyyy 000111222111 f: ");
             String data = iScanner.nextLine();
             String[] arrayData = data.split(" ");
             if (arrayData.length == 6) {
